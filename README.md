@@ -27,7 +27,7 @@ The dataset is divided into three parts:
 
 ## Source of the Dataset
 
-[Provide details about the source of your dataset here]
+[details about the source of the dataset here]
 
 ## Exploratory Data Analysis (EDA)
 
@@ -45,9 +45,16 @@ The EDA steps taken in this project include:
 
 From our analysis, we gained significant insights related to the data:
 
-1. [Insight 1]
-2. [Insight 2]
-3. [Insight 3]
+1. [Insight 1 with the chart]
+2. [Insight 2 with the chart]
+3. [Insight 3 with the chart]
+4. [Insight 4 with the chart]
+5. [Insight 5 with the chart]
+6. [Insight 6 with the chart]
+7. [Insight 7 with the chart]
+8. [Insight 8 with the chart]
+9. [Insight 9 with the chart]
+10. [Insight 10 with the chart]
 
 ## Team Members
 
