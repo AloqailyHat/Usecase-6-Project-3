@@ -81,9 +81,9 @@ From our analysis, we gained significant insights related to the data:
 4. We can notice that 60% of people purchase land for residential purposes.
    <img src="Q2.png" alt="res" width="300"/>
 5. The data suggests that land for commercial purposes is more expensive than land designated for both commercial and residential use. Therefore, if you are looking for a less expensive investment, option for land with a combined commercial and residential designation might be more economical.
-
+   <img src="Q3.png" alt="comm-res" width="300"/>
 6. Furnished apartments tend to be more expensive than unfurnished ones.
-
+   <img src="Q4.png" alt="furn" width="300"/>
 7. The data reveals that the area is a significant factor influencing the price of an apartment, which makes logical sense.
 
 8. [Insight 8 with the chart]
