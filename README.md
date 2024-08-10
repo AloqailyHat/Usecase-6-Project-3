@@ -55,16 +55,17 @@ The EDA steps taken in this project include:
    In the Apartments dataset, missing values in the "Neighborhood" column were filled using imputation with the constant value 'unknown'. Missing values in the 
    "Living_Rooms" column were filled with the constant value '1', based on a new order by the Saudi Arabia government requiring at least one living room. One 
    missing value in the "Age" column in the Narjis neighborhood was filled using imputation with the mean value for the Narjis neighborhood, which is '4'. As for the 
-   "Floor" column, due to the large number of null values, we decided to drop the column, as it wouldn't significantly affect the final results.
+   "Floor" column, due to the large number of null values, we decided to drop the column, as it wouldn't significantly affect the final results, and because there 
+   were many missing values in other different columns, we chose to create two DataFrames: one with the missing values and one without, depending on the purpose.
    
 10. **Uniqueness:**
     All three datasets (Lands, Villas, Apartments) had duplicate rows, but we decided to keep them since they may represent different values, and there are no unique 
     identifiers to confirm they are true duplicates.
     
 12. **Accuracy Check:**
-    12.1 Data Type: In the Lands dataset, we changed the data type from int to float. In the Apartments dataset, we converted the "Bath" column from object to int, 
-    and for the ["Kitchen", "Car_Entrance", "Elevator", "Furnished"] columns, we changed the data type from int to category.
-    12.2 Outlairs 
+    12.1. Data Type: In the Lands dataset, we changed the data type from int to float. In the Apartments dataset, we converted the "Bath" column from object to int, 
+    and for the ["Kitchen", "Car_Entrance", "Elevator", "Furnished"] columns, we changed the data type from int to category. In Villas dataset
+    12.2. Outlairs 
     
 
 ## Key Insights
