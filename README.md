@@ -17,14 +17,14 @@ Our objective questions for the datasets are:
 The dataset is divided into three parts:
 
 - **Apartments:**
-  - Columns: [List the column names here]
+  - Columns: Property_Type, City, Neighborhood, Facade, Bedrooms,Living_Rooms, Baths,Area, Kitchen, Car_Entrance, Elevator, Floor, Age, furnished,Total_Price.
 
 - **Villas:**
-  - Columns: [List the column names here]
+  - Columns: Property_Type, City, Neighborhood, Facade, Bedrooms, Living_Rooms, Baths, street width, Area, Living_Room_Stairs, Kitchen,Maid_Room, Drivers_Room, Annex, Yard, Swimming_Pool, Basement, Car_Entrance, Elevator, Total_Price.
 
 - **Lands:**
-  - Columns: [List the column names here]
-
+  - Columns: Property_Type, Purpose, City, Neighborhood, Facade, Area, Price_per_Meter, Total_Price.
+    
 ## Source of the Dataset
 
 [details about the source of the dataset here]
@@ -33,13 +33,22 @@ The dataset is divided into three parts:
 
 The EDA steps taken in this project include:
 
-1. **Reliability:** [Brief description of what was done]
-2. **Timeliness:** [Brief description of what was done]
-3. **Consistency:** [Brief description of what was done]
-4. **Relevance:** [Brief description of what was done]
-5. **Completeness:** [Brief description of what was done]
-6. **Uniqueness:** [Brief description of what was done]
-7. **Accuracy Check:** [Brief description of what was done]
+1. **Reliability:** 
+ The data is from Kaggle, and there is no specific source. However, since our objective is for learning, we can use it.
+
+3. **Timeliness:** 
+The data was last updated 10 months ago.
+
+4. **Consistency:**
+   There are inconsistent values, especially in the City and Neighborhood columns.
+
+6. **Relevance:**
+   The available data is consistent with the objectives of the analysis.
+   There are irrelevant columns in all the datasets that we dropped, such as Property_Type.
+
+8. **Completeness:** [Brief description of what was done]
+9. **Uniqueness:** [Brief description of what was done]
+10. **Accuracy Check:** [Brief description of what was done]
 
 ## Key Insights
 
