@@ -49,18 +49,22 @@ The data was last updated 10 months ago.
 8. **Completeness:**
    All three datasets (Lands, Villas, Apartments) had missing values.
    In the Lands dataset, missing values in the "Purpose" column were filled using imputation with the mode.
-   In the Villas dataset, because there were many missing values in different columns, we chose to create two DataFrames: one with the missing values and one without, 
-   depending on the purpose.
+   In the Villas dataset, for the "street width" column, due to the large number of null values, we decided 
+   to drop the column, and because there were many missing values in other different columns, we chose to create two DataFrames: one with the missing values and one 
+   without, depending on the purpose.
    In the Apartments dataset, missing values in the "Neighborhood" column were filled using imputation with the constant value 'unknown'. Missing values in the 
-   "Living_Rooms" column were filled with the constant value '1', based on a new order by the Saudi Arabian government requiring at least one living room. Missing 
-   values in the "Age" column were filled using imputation with the mean value of '4'. As for the "Floor" column, due to the large number of null values, we decided 
-   to drop the column, as it wouldn't significantly affect the final results.
+   "Living_Rooms" column were filled with the constant value '1', based on a new order by the Saudi Arabian government requiring at least one living room. One 
+   missing 
+   value in the "Age" column in the Narjis neighborhood was filled using imputation with the mean value for the Narjis neighborhood, which is '4'. As for the "Floor" 
+   column, due to the large number of null values, we decided to drop the column, as it wouldn't significantly affect the final results.
    
 10. **Uniqueness:**
     All three datasets (Lands, Villas, Apartments) had duplicate rows, but we decided to keep them since they may represent different values, and there are no unique 
     identifiers to confirm they are true duplicates.
     
-12. **Accuracy Check:** [Brief description of what was done]
+12. **Accuracy Check:**
+    12.1 Data type:
+    
 
 ## Key Insights
 
