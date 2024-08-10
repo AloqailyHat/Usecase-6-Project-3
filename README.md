@@ -6,11 +6,16 @@ Navigating Riyadh's real estate market can be challenging due to limited data. W
 
 Our objective questions for the datasets are:
 
-1. [Question 1]
-2. [Question 2]
-3. [Question 3]
-4. [Question 4]
-5. [Question 5]
+1. In what neighborhood are the most expensive and least expensive villas located?
+   [chart and description]
+2. Does the frontier location of a villa can affect its price?
+   [chart and description]
+3. What factors influence the price of villas?
+   [chart and description]
+4. What factors influence the price of apartments?
+   [chart and description]
+5. What are the average prices of lands intended for investment purposes?
+   [chart and description]
 
 ## Dataset Overview
 
