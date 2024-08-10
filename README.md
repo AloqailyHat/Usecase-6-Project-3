@@ -87,8 +87,11 @@ From our analysis, we gained significant insights related to the data:
 7. The data reveals that the area is a significant factor influencing the price of an apartment, which makes logical sense.
 
 8. [Insight 8 with the chart]
+   <img src="Q4.png" alt="furn" width="300"/>
 9. [Insight 9 with the chart]
+    <img src="Q4.png" alt="furn" width="300"/>
 10. [Insight 10 with the chart]
+    <img src="Q4.png" alt="furn" width="300"/>
 
 
 
