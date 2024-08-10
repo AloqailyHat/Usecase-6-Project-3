@@ -88,10 +88,10 @@ From our analysis, we gained significant insights related to the data:
    <img src="Q3-st.png" alt="infu" width="300"/>
 8. We noticed from the data that most selling apartments are loctaed in Alnarjes neighborhood.
    <img src="insight-8.png" alt="narjes" width="300"/>
-9. [Insight 9 with the chart]
+9. The data shows that the swimming pool is a factor influencing the price of a villa, which is makes sense because it takes a lot of space.
     <img src="insight-9.png" alt="furn" width="300"/>
-10. [Insight 10 with the chart]
-    <img src="Q4.png" alt="furn" width="300"/>
+10. We noticed from the histogram after cutting the outliers that the range of apartments is approximately around 500K-8M, and the range of villas is around 1M-10M, lastly the range of lands is from 5M-80M, which suprised us that lands is more expensive than villas, and maybe because of commercial reason that lands are more expensive.  
+    <img src="insight-10.png" alt="furn" width="300"/>
 
 
 
