@@ -46,9 +46,18 @@ The data was last updated 10 months ago.
    The available data is consistent with the objectives of the analysis.
    There are irrelevant columns in all the datasets that we dropped, such as Property_Type.
 
-8. **Completeness:** [Brief description of what was done]
-9. **Uniqueness:** [Brief description of what was done]
-10. **Accuracy Check:** [Brief description of what was done]
+8. **Completeness:**
+   All three datasets (Lands, Villas, Apartments) had missing values.
+   In the Lands dataset, missing values in the "Purpose" column were filled using imputation with the mode.
+   In the Villas dataset, because there were many missing values in different columns, we chose to create two DataFrames: one with the missing values and one without, 
+   depending on the purpose.
+   In the Apartments dataset, for missing values
+   
+10. **Uniqueness:**
+    All three datasets (Lands, Villas, Apartments) had duplicate rows, but we decided to keep them since they may represent different values, and there are no unique 
+    identifiers to confirm they are true duplicates.
+    
+12. **Accuracy Check:** [Brief description of what was done]
 
 ## Key Insights
 
