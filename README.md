@@ -63,9 +63,9 @@ The EDA steps taken in this project include:
     identifiers to confirm they are true duplicates.
     
 12. **Accuracy Check:**
-    12.1. Data Type: In the Lands dataset, we changed the data type from int to float. In the Apartments dataset, we converted the "Bath" column from object to int, 
-    and for the ["Kitchen", "Car_Entrance", "Elevator", "Furnished"] columns, we changed the data type from int to category. In Villas dataset
-    12.2. Outlairs 
+    12\.1. Data Type: In In Villas and Apartments datasets, we converted the "Bath" column from object to int, 
+    and for the ["Kitchen", "Car_Entrance", "Elevator", "Furnished"] columns, we changed the data type from int to category. The Lands dataset remains the same.
+    12\.2. Outlairs 
     
 
 ## Key Insights
