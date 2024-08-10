@@ -97,7 +97,8 @@ From our analysis, we gained significant insights related to the data:
 
 ## Storytelling Link
 
-[Take a look at our Storytelling](https://usecase6-project3-hatoon-group.streamlit.app/)
+[Take a look at our Storytelling](https://usecase6-project3-hatoon-group.streamlit.app/) 
+
 [Link to source code](https://github.com/FaisalMathCS/streamlit_usecase6/tree/main)
 
 
