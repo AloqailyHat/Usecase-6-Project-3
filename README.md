@@ -85,7 +85,7 @@ From our analysis, we gained significant insights related to the data:
 6. Furnished apartments tend to be more expensive than unfurnished ones.
    <img src="Q4.png" alt="furn" width="300"/>
 7. The data reveals that the area is a significant factor influencing the price of an apartment, which makes logical sense.
-
+   <img src="Q3-st.png" alt="infu" width="300"/>
 8. [Insight 8 with the chart]
    <img src="Q4.png" alt="furn" width="300"/>
 9. [Insight 9 with the chart]
