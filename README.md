@@ -72,13 +72,20 @@ The EDA steps taken in this project include:
 
 From our analysis, we gained significant insights related to the data:
 
-1. [Insight 1 with the chart]
-2. [Insight 2 with the chart]
-3. [Insight 3 with the chart]
-4. [Insight 4 with the chart]
-5. [Insight 5 with the chart]
-6. [Insight 6 with the chart]
-7. [Insight 7 with the chart]
+1. The chart indicates that the most expensive villas are situated in the northern and eastern parts of Riyadh.
+  <img src="Q01" alt="most-exp-villa" width="300"/>
+2. According to the chart, the least expensive villas are found in the southern region of Riyadh.
+  <img src="Q11" alt="least-exp-villa" width="300"/>
+3. Many of the costly villas are located at the intersection of three streets.
+  <img src="Q11" alt="least-exp-villa" width="300"/>
+4. We can notice that 60% of people purchase land for residential purposes.
+   <img src="Q2" alt="res" width="300"/>
+5. The data suggests that land for commercial purposes is more expensive than land designated for both commercial and residential use. Therefore, if you are looking for a less expensive investment, option for land with a combined commercial and residential designation might be more economical.
+
+6. Furnished apartments tend to be more expensive than unfurnished ones.
+
+7. The data reveals that the area is a significant factor influencing the price of an apartment, which makes logical sense.
+
 8. [Insight 8 with the chart]
 9. [Insight 9 with the chart]
 10. [Insight 10 with the chart]
