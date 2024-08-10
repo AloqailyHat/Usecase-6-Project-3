@@ -67,7 +67,7 @@ From our analysis, we gained significant insights related to the data:
 ## Team Members
 
 - Dania
-- Faisal
+- Faisal Alzhrani
 - Fahad Alsaadi
 - Ashwaq
 - Hatoon Aloqaily
